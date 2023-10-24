@@ -1,0 +1,25 @@
+[select] text (where) word [is equal to] "Descrivi" 
+
+Scrivi in un file di tipo testo, tutte le situazioni di una tua giornata tipo dove hai a che fare con i dati. (ES.: uso di social, navigatore, chat… ecc ecc.) 
+Descrivi per ogni situazione: 
+● che tipo di dati usi o comunichi? 
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? 
+● sono dati sensibili? 
+● puoi evitare di comunicarli? 
+● Hai fornito il consenso al trattamento dei dati?
+
+Quando inizio la mia giornata 
+- leggo la Bibbia in un app e si generano dei dati quando vedo gli obiettivi di lettura raggiunti, gli amici che usano l'app e a che punto sono con il mio piano di lettura. 
+- Poi guardo whattsapp e lì si generano dei dati nelle chat a cui rispondo
+- Arrivo al mio lavoro e con la timbratura si genera il dato dell'orario di ingresso al mio lavoro, si genererà anche un dato quando esco in pausa, rientro dalla pausa e timbro l'uscita. 
+- Controllo se ci sono dei pacchi da spedire e genero dei numeri alleatori di lettere di vettura e codice di ritiro dei pacchi
+- Rispondo al sistema di ticketing di zendesk e si genera il dato del tempo di risposta ad ogni ticket, eventualmente il grado di soddisfazione per il servizio offerto. 
+Poi naturalmente si crea un nuovo dato quando si genera un nuovo ticket quando qualcuno ci scrive.  
+- Si generano anche dei dati quando visito dei siti web sia con il computer che con il mio smartphone indicando le pagine che visito che entra nel traffico di pagine visitate, ad esempio. 
+Se uso il navigatore per tornare a casa genero dei dati di percorsi sui server di Google. 
+Se chiamo qualcuno genero anche dei dati sul telefono che riceve la chiamata o se mi chiamano questi dati si generano sul mio telefono. 
+In particolare, sul mio smartphone se faccio un numero più di una volta mi viene indicato.
+I dati generati sono sensibili se chiedo a qualcuno di contattarmi indicando il mio indirizzo o numero di telefono o email. 
+Alcuni dei dati riferiti prima non posso evitare di comunicarli come le chat di whattsapp a cui rispondo o i numeri di telefono che chiamo o che mi chiamano. 
+Altri, come la compilazione di un form per essere contattato è qualcosa che io posso regolare. 
+Non in tutti i casi si ha la possibilità di fornire un consenso come nel caso detto prima del telefono. Di solito viene chiesto quando si tratta di servizi commerciali o promozionali. 
